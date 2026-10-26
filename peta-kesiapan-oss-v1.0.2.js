@@ -30,7 +30,7 @@
  */
 (function (host) {
   'use strict';
-  const VERSION = '1.0.0';
+  const VERSION = '1.0.2';
   const STORE = 'edumind.oss.peta.v1.draft';
   const SESSION = 'edumind.oss.peta.v1.login';
   const AUTH_DIGEST = '481650102457e10592b8061acc19b93a1cb9593bd6123579353467eac4b9982a';
